@@ -1,1 +1,1 @@
-# json_response
+A Django Rest Framework REST API Endpoint
