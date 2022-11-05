@@ -1,1 +1,1 @@
-A Django Rest Framework REST API Endpoint
+A Django Rest Framework GET endpoint that returns Slack user details
